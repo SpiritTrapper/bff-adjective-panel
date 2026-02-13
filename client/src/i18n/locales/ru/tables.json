@@ -1,0 +1,17 @@
+{
+  "id": "Id",
+  "name": "Название",
+  "eventStartDate": "Начало события",
+  "eventStatus": "Статус события",
+  "active": "Активно",
+  "newsType": "Тип новости",
+  "publishDate": "Дата публикации",
+  "statusLabel": "Статус",
+  "descriptionLabel": "Описание",
+  "priorityLabel": "Приоритет",
+  "locationLabel": "Расположение",
+  "published": "Активно",
+  "banned": "Отклонено",
+  "unknown": "Неизвестен",
+  "promo": "Promo"
+}

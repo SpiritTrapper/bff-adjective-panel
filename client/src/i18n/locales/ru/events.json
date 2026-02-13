@@ -1,0 +1,18 @@
+{
+  "title": "События",
+  "eventName": "Название события",
+  "eventNamePlaceholder": "DevOps конференция",
+  "eventFormat": "Формат события",
+  "online": "Онлайн",
+  "offline": "Офлайн",
+  "eventActive": "Событие активно",
+  "eventLocation": "Место проведения",
+  "eventLocationPlaceholder": "Москва",
+  "eventOrganizer": "Организатор события",
+  "eventOrganizerPlaceholder": "Yandex",
+  "participantLevel": "Уровень участников",
+  "eventTheme": "Тема событий",
+  "eventType": "Тип событий",
+  "dateRange": "Диапазон дат",
+  "filterDescription": "Параметры поиска событий"
+}

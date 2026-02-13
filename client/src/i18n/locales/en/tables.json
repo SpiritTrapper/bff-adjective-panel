@@ -1,0 +1,17 @@
+{
+  "id": "Id",
+  "name": "Name",
+  "eventStartDate": "Event start",
+  "eventStatus": "Event status",
+  "active": "Active",
+  "newsType": "News type",
+  "publishDate": "Publish date",
+  "statusLabel": "Status",
+  "descriptionLabel": "Description",
+  "priorityLabel": "Priority",
+  "locationLabel": "Location",
+  "published": "Active",
+  "banned": "Rejected",
+  "unknown": "Unknown",
+  "promo": "Promo"
+}

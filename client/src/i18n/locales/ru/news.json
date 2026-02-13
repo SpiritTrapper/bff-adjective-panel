@@ -1,0 +1,7 @@
+{
+  "title": "Новости",
+  "newsName": "Название новости",
+  "newsNamePlaceholder": "Запуск BFF Admin",
+  "newsActive": "Событие активно",
+  "filterDescription": "Параметры поиска новостей"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Events",
+  "eventName": "Event name",
+  "eventNamePlaceholder": "DevOps conference",
+  "eventFormat": "Event format",
+  "online": "Online",
+  "offline": "Offline",
+  "eventActive": "Event active",
+  "eventLocation": "Event location",
+  "eventLocationPlaceholder": "Moscow",
+  "eventOrganizer": "Event organizer",
+  "eventOrganizerPlaceholder": "Yandex",
+  "participantLevel": "Participant level",
+  "eventTheme": "Event theme",
+  "eventType": "Event type",
+  "dateRange": "Date range",
+  "filterDescription": "Event search parameters"
+}

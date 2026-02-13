@@ -1,0 +1,21 @@
+{
+  "name": "bff-admin",
+  "private": true,
+  "type": "module",
+  "packageManager": "yarn@4.6.0",
+  "workspaces": [
+    "server",
+    "client"
+  ],
+  "scripts": {
+    "build": "lerna run build --stream",
+    "start": "lerna run start --stream",
+    "dev": "lerna run dev --parallel --stream",
+    "lint": "lerna run lint",
+    "cleanup": "lerna clean && rm -Rf node_modules"
+  },
+  "devDependencies": {
+    "lerna": "^8.2.3",
+    "typescript": "~5.9.3"
+  }
+}

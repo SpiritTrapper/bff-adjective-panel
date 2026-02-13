@@ -1,0 +1,22 @@
+{
+  "printWidth": 100,
+  "trailingComma": "all",
+  "singleQuote": false,
+  "importOrder": [
+    "^(react)|(react/(.*))$",
+    "<THIRD_PARTY_MODULES>",
+    "^@api/(.*)$",
+    "^@pages/(.*)$",
+    "^@components/(.*)$",
+    "^@contexts/(.*)$",
+    "^@hooks/(.*)$",
+    "^@lib/(.*)$",
+    "^@i18n/(.*)$",
+    "^@images/(.*)$",
+    "^[./]"
+  ],
+  "importOrderSeparation": true,
+  "importOrderSortSpecifiers": true,
+  "importOrderCaseInsensitive": false,
+  "plugins": ["@trivago/prettier-plugin-sort-imports"]
+}

@@ -1,0 +1,12 @@
+{
+  "required": "This field is required",
+  "invalidEmail": "Enter a valid email address",
+  "invalidPassword": "Enter a valid password",
+  "selectValue": "Select a value",
+  "selectDate": "Select a date",
+  "selectDates": "Select dates",
+  "uploadFile": "Upload file",
+  "uploadDescription": "Drag and drop a file here or click to choose a file from your computer.",
+  "uploadHint": "Images 960x240 pixels, formats: .jpg, .png, max 5 MB.",
+  "pageNotFound": "Page not found"
+}
